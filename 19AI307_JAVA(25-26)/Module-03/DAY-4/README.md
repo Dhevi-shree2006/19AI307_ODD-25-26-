@@ -24,8 +24,8 @@ To demonstrate interface-based polymorphism by creating a common WeatherBot inte
  ```
 /*
 Program to implement a Interface using Java
-Developed by: Shreya R
-RegisterNumber:  212224060248
+Developed by: DHEVI BALA SHREE P
+RegisterNumber:  212224060063
 */
 ```
 
