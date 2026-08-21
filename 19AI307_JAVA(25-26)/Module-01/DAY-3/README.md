@@ -33,8 +33,8 @@ To write a Java program to calculate and display the factorial of a non-negative
  ```
 /*
 Program to implement a Looping Statement using Java
-Developed by: Shreya R
-RegisterNumber:  212224060248
+Developed by: DHEVI BALA SHREE P
+RegisterNumber:  212224060063
 */
 ```
 
