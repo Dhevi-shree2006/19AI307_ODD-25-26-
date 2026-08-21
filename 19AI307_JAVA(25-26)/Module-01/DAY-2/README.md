@@ -38,8 +38,8 @@ To write a Java program that uses conditional statements and logical operators t
  ```
 /*
 Program to implement a conditional statement using Java
-Developed by: Shreya R
-RegisterNumber: 212224060248 
+Developed by: DHEVI BALA SHREE P
+RegisterNumber: 212224060063
 */
 ```
 
