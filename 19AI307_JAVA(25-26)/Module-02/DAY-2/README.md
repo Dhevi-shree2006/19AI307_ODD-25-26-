@@ -19,8 +19,8 @@ To write a Java method square(int number) that calculates and returns the square
  ```
 /*
 Program to implement a Methods using Java
-Developed by: Shreya R
-RegisterNumber:  212224060248
+Developed by: DHEVI BALA SHREE P
+RegisterNumber:  212224060063
 */
 ```
 
