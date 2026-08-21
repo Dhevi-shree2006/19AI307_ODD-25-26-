@@ -18,8 +18,8 @@ To write a Java program to demonstrate the use of a parameterized constructor by
  ```
 /*
 Program to implement a Variable scope and Constructor using Java
-Developed by: Shreya R
-RegisterNumber:  212224060248
+Developed by: DHEVI BALA SHREE P
+RegisterNumber:  212224060063
 */
 ```
 
