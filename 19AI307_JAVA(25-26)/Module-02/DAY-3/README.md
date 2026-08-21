@@ -20,8 +20,8 @@ To create a Java Circle class with a private radius variable and public getter, 
  ```
 /*
 Program to implement a Access Specifiers using Java
-Developed by: Shreya R
-RegisterNumber:  212224060248
+Developed by: DHEVI BALA SHREE P
+RegisterNumber:  212224060063
 */
 ```
 
