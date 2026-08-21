@@ -16,8 +16,8 @@ Create a class College with a final variable universityName = "Saveetha Universi
  ```
 /*
 Program to implement a Access Modifiers using Java
-Developed by: Shreya R
-RegisterNumber:  212224060248
+Developed by: DHEVI BALA SHREE P
+RegisterNumber:  212224060063
 */
 ```
 
