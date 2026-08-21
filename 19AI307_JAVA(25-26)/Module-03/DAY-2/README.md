@@ -25,8 +25,8 @@ To demonstrate inheritance in Java by creating a Person superclass and a Student
  ```
 /*
 Program to implement a Polymorphism using Java
-Developed by: Shreya R
-RegisterNumber:  212224060248
+Developed by: DHEVI BALA SHREE P
+RegisterNumber:  212224060063
 */
 ```
 
