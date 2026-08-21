@@ -28,8 +28,8 @@ To write a Java program to read Lovely's age and score and evaluate six conditio
  ```
 /*
 Program to implement variables and Operators using Java
-Developed by: Shreya R
-RegisterNumber: 212224060248
+Developed by: DHEVI BALA SHREE P
+RegisterNumber: 212224060063
 */
 ```
 
