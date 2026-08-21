@@ -18,8 +18,8 @@ To write a Java program to calculate and display the average of the elements in 
  ```
 /*
 Program to implement a Array concept using Java
-Developed by: Shreya R
-RegisterNumber:  212224060248
+Developed by: DHEVI BALA SHREE P
+RegisterNumber:  212224060063
 */
 ```
 
