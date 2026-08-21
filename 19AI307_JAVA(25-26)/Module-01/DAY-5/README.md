@@ -18,8 +18,8 @@ To write a Java program to reverse a given string.
  ```
 /*
 Program to implement a Strings and Math Function using Java
-Developed by: Shreya R
-RegisterNumber:  212224060248
+Developed by: DHEVI BALA SHREE P
+RegisterNumber:  212224060063
 */
 ```
 
