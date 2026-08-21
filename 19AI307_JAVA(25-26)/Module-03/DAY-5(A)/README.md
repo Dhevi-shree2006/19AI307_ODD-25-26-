@@ -19,8 +19,8 @@ To write a Java program to demonstrate the use of an inner class and access the 
  ```
 /*
 Program to implement a InnerClass using Java
-Developed by: Shreya R
-RegisterNumber: 212224060248 
+Developed by: DHEVI BALA SHREE P
+RegisterNumber: 212224060063
 */
 ```
 
